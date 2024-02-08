@@ -1,1 +1,1 @@
-# KG_CLIP
+# KG_CLIP  KDD
